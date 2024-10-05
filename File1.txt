@@ -1,1 +1,2 @@
-This is file1, I want to push/upload to github
+This is file1, I want to push/upload to github.
+File1 is modified.
